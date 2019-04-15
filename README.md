@@ -129,6 +129,7 @@ These are only part of the companies using Nacos, for reference only. If you are
 ![上海密尔克卫化工](http://www.mwclg.com/static-resource/front/images/home/img_logo_nav.png)
 ![大连新唯](https://www.synwe.com/logo-full.png)
 ![立思辰](https://user-images.githubusercontent.com/10215557/51593180-7563af00-1f2c-11e9-95b1-ec2c645d6a0b.png)
+![恩塔](https://user-images.githubusercontent.com/18320704/55215350-72d74b80-5234-11e9-9bc8-2ed453945291.jpg)
 ![拓深科技](http://www.tpson.cn/images/new/icon/LOGO_1.png)
 ![东家](https://img.alicdn.com/tfs/TB1zWW2EpYqK1RjSZLeXXbXppXa-262-81.png)
 ![上海克垚](http://www.sh-guiyao.com/images/logo.jpg)
